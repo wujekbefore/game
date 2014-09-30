@@ -2,3 +2,6 @@ if dupa
 then kupa
 
 test
+
+//KoRny
+a tak coś dopiszę żeby mi zaznaczyło wygodniej to ;P
